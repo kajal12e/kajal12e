@@ -56,8 +56,8 @@ I enjoy turning ideas into real-world applications — from designing backend sy
 
 ### 🚀 Featured Projects
 
-#### 📊 DistributedLogHub – Microservices Log Aggregation System  
-[System Dashboard](https://raw.githubusercontent.com/kajal12e/DistributedLogHub/main/loghub-dashboard.jpeg)
+#### 📊 DistributedLogHub – Microservices Log Aggregation System
+![System Dashboard](https://raw.githubusercontent.com/kajal12e/DistributedLogHub/main/loghub-dashboard.jpeg)
 **Tech:** Python 3.11 • Flask 3.0.3 • Microservices • REST API • Render
 - Production-grade distributed logging framework for microservices architecture
 - Centralized log aggregation with correlation ID tracing for end-to-end request tracking
@@ -67,15 +67,14 @@ I enjoy turning ideas into real-world applications — from designing backend sy
 🔗 **Live Demo:** [Log Collector API](https://log-collector-kajal.onrender.com/) | **Repository:** [DistributedLogHub](https://github.com/kajal12e/DistributedLogHub)
 
 #### 🎬 Movie Recommendation System
-[App Demo](https://raw.githubusercontent.com/kajal12e/movie-recommendation-system/main/Demo.jpeg)
+![App Demo](https://raw.githubusercontent.com/kajal12e/movie-recommendation-system/main/Demo.jpeg)
 **Tech:** Python • Machine Learning • Streamlit • Scikit-learn • Pandas
 - Content-based recommendation engine using cosine similarity algorithm
 - Recommends 5 similar movies based on user selection from 5000+ movie dataset
 - Interactive Streamlit UI with movie posters fetched via TMDB API
 - Deployed with clean, responsive interface for real-time predictions
-
-🔗 **Live Demo:** (https://movie-recommendation-system-asqlepvxydlcq9grydcvud.streamlit.app/) | **Repository:** [movie-recommendation-system](https://github.com/kajal12e/movie-recommendation-system)
-
+ 
+🔗 **Live Demo:** [Movie Recommendation App](https://movie-recommendation-system-asqlepvydlcq9grydcvud.streamlit.app/) | **Repository:** [movie-recommendation-system](https://github.com/kajal12e/movie-recommendation-system)
 #### ✅ taskFlow-mini – Task Manager Web App
 **Tech:** Python • Flask • SQLite • HTML/CSS • REST API
 - Full-stack Flask web app for CRUD operations on daily tasks
